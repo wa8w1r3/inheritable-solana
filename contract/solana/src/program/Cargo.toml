@@ -10,7 +10,7 @@ edition = "2018"
 no-entrypoint = []
 
 [dependencies]
-borsh = "0.9.1"
+borsh = "0.10.4"
 arrayref = "0.3.6"
 serde = "1.0.130"
 byteorder = "1.4.3"
